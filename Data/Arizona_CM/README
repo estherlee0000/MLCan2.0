@@ -1,0 +1,16 @@
+Data for Lee, Kumar, Knowles et al, WRR 2020 (submitted)
+
+DOI for this repository: 10.5281/zenodo.3885826 https://doi.org/10.5281/zenodo.3885826
+
+Datasets in Arizona_CM:
+
+AZ_CM_MLCanForcing2015-2016.mat: model forcing file to run Multi-layer canopy model (MLCan) for Charleston Mesquite (CM) site in Arizona. The forcing file includes precipitation, leaf area indicies of coexisting plants, solar radiation, etc.
+
+CM20XX.mat: flux tower measurements at the Charleston Mesquite (CM) site. Each file includes data measured over a year with 30-minutes interval (data provided USDA-ARS. Please contact Russ Scott at russ.scott@ars.usda.gov if you have any questions about the data)
+
+CMsoil20XX.mat: measured soil moisture and soil temperature over depth at the Charleston Mesquite (CM) site. Each file includes data measured over a year with 30-minutes interval (data provided USDA-ARS. Please contact Russ Scott at russ.scott@ars.usda.gov if you have any questions about the data)
+
+readme.txt: readme file for soil dataset (CMsoil20XX.mat) providing the depths where soil moisture and soil temperature are made
+
+CM_mean_nighttime_sap_velocity.xlsx: measured sapflow velocity through trunk, taproot, and lateral root of a mesquite tree at Charleston Mesquite (CM) site. Each value is a daily nighttime mean of the velocity of the sap flow.
+
